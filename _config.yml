@@ -2,7 +2,7 @@ na l# Setup
 title: Dong Yiiiii
 description: Personal blogs
 url: https://dongyiiiii.github.io/
-avatar: ./personalphoto.jpg
+avatar: /personalphoto.jpg
 paginate: 5
 permalink: pretty
 cover_image: /bg.jpeg
@@ -56,4 +56,4 @@ sass:
 author:
   name: Yi Dong
   url: https://github.com/DongYiiiii
-  email: vszhub@gmail.com
+  email: 544933151@qq.com
