@@ -1,8 +1,8 @@
-# Setup
+na l# Setup
 title: Dong Yiiiii
-description: A simple, beautiful, and powerful Jekyll theme for blogs
+description: Personal blogs
 url: https://dongyiiiii.github.io/
-avatar: /avatar.jpeg
+avatar: /personalphoto.jpeg
 paginate: 5
 permalink: pretty
 cover_image: /bg.jpeg
