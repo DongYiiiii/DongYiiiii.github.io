@@ -2,7 +2,7 @@ na l# Setup
 title: Dong Yiiiii
 description: Personal blogs
 url: https://dongyiiiii.github.io/
-avatar: /personalphoto.jpeg
+avatar: ./personalphoto.jpg
 paginate: 5
 permalink: pretty
 cover_image: /bg.jpeg
