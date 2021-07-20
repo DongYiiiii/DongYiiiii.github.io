@@ -43,7 +43,3 @@ Recommendation, Graph neural network in recommendation, Bioinformatic...
 + 湖北省青年志愿公益项目大赛公益创业赛银奖
 + 湖北省第四届“互联网+”创新创业大赛铜奖
 + “创青春·汇得行”湖北省大学生创业大赛公益创业赛铜奖
-
-**Not Pure Poole** is a simple, beautiful, and powerful Jekyll theme for blogs. It is built on [Poole](https://github.com/poole/poole) and [Pure](https://purecss.io/).
-
-For more information about Not Pure Poole, please browse the [README](https://github.com/vszhub/not-pure-poole) file.
