@@ -19,8 +19,30 @@ Recommendation, Graph neural network in recommendation, Bioinformatic...
 + 熟悉hive sql。
 
 # Publication
+[1] **Infering LncRNA-disease associations based on graph autoencoder matrix convolutional network and negative sampling**, *Ximin Wu, Wei Lan, Qingfeng Chen, Yi Dong, Jin Liu, Wei Peng.* Cpmputational Biology and Chemistry. [PDF](https://www.sciencedirect.com/science/article/abs/pii/S1476927119310114)
 
+# Honors & Awards
+## 研究生阶段
++ 一篇CCF B类论文（IEEE/ACM Transactions on Computational Biology and Bioinformatics）审稿回复小修，已经返稿，基本确认录用
++ 一篇CCF B类会议（BIBM）在投
++ 一篇综述论文在写
++ 以年级第二的学分绩点获得广西大学一等奖学金
++ 成功获得年级仅四个名额的2021广西大学研究生创新项目（项目负责人）《基于图神经网络预测环状RNA与疾病的潜在关系》（项目编号：YCSW2021025
++ 作为重要成员参与导师面上项目，国家自然科学基金项目《基于多元数据融合的环状RNA与癌症关系预测研究》
++ 获得广西大学数学建模大赛三等奖
++ 获得华为杯数学建模大赛优秀奖
 
+## 本科生阶段
++ 一篇国家发明型专利《一种基于TCP WebSocket协议的协同编辑方法》申请公布号： CN109299046A实质审核中
++ 一篇软件导刊论文
++ 连续四年获得校级二等奖学金，并最终以3.6绩点获得校优秀生，优秀考研寝室
++ 全国大学生计算机设计大赛三等奖
+
+## 其他
++ 研究生2020年校级优秀共青团员
++ 湖北省青年志愿公益项目大赛公益创业赛银奖
++ 湖北省第四届“互联网+”创新创业大赛铜奖
++ “创青春·汇得行”湖北省大学生创业大赛公益创业赛铜奖
 
 **Not Pure Poole** is a simple, beautiful, and powerful Jekyll theme for blogs. It is built on [Poole](https://github.com/poole/poole) and [Pure](https://purecss.io/).
 
