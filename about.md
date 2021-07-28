@@ -20,6 +20,7 @@ Recommendation, Graph neural network in recommendation, Bioinformatic...
 
 # Publication
 [1] **Infering LncRNA-disease associations based on graph autoencoder matrix convolutional network and negative sampling**, *Ximin Wu, Wei Lan, Qingfeng Chen, Yi Dong, Jin Liu, Wei Peng.* Cpmputational Biology and Chemistry. [PDF](https://www.sciencedirect.com/science/article/abs/pii/S1476927119310114)
+
 [2] **IGNSCDA: Predicting CircRNA-Disease Associations Based on Improved Graph Convolutional Network and Negative Sampling**, *Wei Lan, Yi Dong, Qingfeng Chen, Jin Liu, Jianxin Wang, Yi-Ping Phoebe Chen, Shirui Pan.* Under review by TCBB. 
 
 # Honors & Awards
