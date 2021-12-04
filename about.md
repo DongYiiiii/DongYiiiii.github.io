@@ -53,4 +53,4 @@ Recommendation, Graph neural network, Bioinformatic, Natural Language Processing
 + “创青春·汇得行”湖北省大学生创业大赛公益创业赛铜奖。
 
 ## 知乎链接
-[知乎id:DongYiiiii](https://www.zhihu.com/people/dong-yi-46-46)
+[知乎 id:DongYiiiii](https://www.zhihu.com/people/dong-yi-46-46) 知乎上我定期分享关注的论文笔记
